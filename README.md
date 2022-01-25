@@ -6,7 +6,7 @@
 
 - I graduated in Information Systems in 2015
 
-- I am currently taking a degree in Computer Engineering
+- I am currently taking a degree in Data Science
 
 - I learn fast and enjoy exploring new technologies
 
@@ -22,19 +22,10 @@
 
 - I'm very nice!
 
-## 🏆️ Achievements in 2020
-
-- I completed four bootcamps at IGTI
-  - Data Analyst
-  - Machine Learning
-  - Python Developer
-  - Data Engineering
-- My team got 2nd place in the VTEX Challenge at Mega Hack (2nd edition)
-
-## 🎯 Goals for 2021
+## 🎯 Goals for 2022
 
 - Keep improving my software development skills
-- Learn more about data science, machine learning and data engineering
+- Learn more about DevOps, Big Data and Machine Learning
 
 ---
 
