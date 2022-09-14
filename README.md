@@ -6,8 +6,6 @@
 
 - I graduated in Information Systems in 2015
 
-- I am currently taking a degree in Data Science
-
 - I learn fast and enjoy exploring new technologies
 
 - I like to share knowledge
@@ -25,7 +23,7 @@
 ## 🎯 Goals for 2022
 
 - Keep improving my software development skills
-- Learn more about DevOps, Big Data and Machine Learning
+- Learn more about DevOps
 
 ---
 
