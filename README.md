@@ -20,12 +20,15 @@
 
 - I'm very nice!
 
-## 🎯 Goals for 2022
+## 🎯 Goals for 2023
 
 - Keep improving my software development skills
 - Learn more about DevOps
 
 ---
+
+"If you want to build a ship, don't organize people to collect wood, assign them tasks, and give orders.
+Instead, teach them to long for the vast and endless sea." - Antoine Saint-Exupery
 
 <p align="center">
   Connect with me
