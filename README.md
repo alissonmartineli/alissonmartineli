@@ -1,45 +1,26 @@
 ![Software Engineer](./banner.png)
 
-## 👨🏻‍💻 A little about me
+🚀 Passionate Software Developer | Curious Mind
 
-- I've worked as a web developer since 2010
+Hey there! 👋 I'm Alisson, a software developer from Brazil with a curious mind and a love for exploring new technologies. I find joy in unraveling the intricacies of code, mirroring my passion for understanding the mysteries of the universe.
 
-- I graduated in Information Systems in 2015
+💡 A Mind in Motion
+Always immersed in thoughts, I enjoy exploring new ideas, questioning norms, and engaging in mental debates. My nature leads me to cherish moments of reflection after a day filled with coding adventures.
 
-- I learn fast and enjoy exploring new technologies
+🤔 Analytical Explorer
+With a sharp eye for details, I enjoy diving into various topics, driven by a constant flow of ideas and a love for playing devil's advocate.
 
-- I like to share knowledge
+🌌 Unraveling the Universe
+While I navigate the logical realm with ease, I find understanding human nature to be a fascinating challenge. Emotions and feelings might be complex, but I bring a unique perspective to the table.
 
-- I believe in agile software development, teamwork and clean code
+💻 Coding Creativity
+Reflecting on ideas and possibilities, I thrive on tackling complex issues and finding original solutions through the power of code.
 
-- I am flexible and adapt well to the environment
+🚀 Unlocking Potential
+With a blend of creativity, open-mindedness, and an analytical approach, I'm on a journey to unlock my full potential and stay fulfilled.
 
-- I am able to switch between perfectionism and pragmatism
-
-- I like to think outside the box
-
-- I'm very nice!
-
-## 🎯 Goals for 2023
-
-- Keep improving my software development skills
-- Learn more about DevOps
+Let's connect, explore ideas, and maybe engage in a spirited discussion! 🔗✨
 
 ---
 
-"If you want to build a ship, don't organize people to collect wood, assign them tasks, and give orders.
-Instead, teach them to long for the vast and endless sea." - Antoine Saint-Exupery
-
-<p align="center">
-  Connect with me
-  <br>
-  <a href="https://www.linkedin.com/in/alissonmartineli/">
-    <img alt="Alisson's LinkedIn" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  </a>
-  <a href="https://github.com/alissonmartineli">
-    <img alt="Alisson's Github" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-  </a>
-  <a href="https://twitter.com/alissomartineli">
-    <img alt="Alisson's Twitter" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-  </a>
-</p>
+"The important thing is not to stop questioning. Curiosity has its own reason for existence." - Albert Einstein
